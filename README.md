@@ -47,4 +47,3 @@
 **Disclaimer:**
 
 - Ensure you have the necessary permissions to access the servers and run commands.
-- Test the script in a safe environment before deploying it in a production setting.
